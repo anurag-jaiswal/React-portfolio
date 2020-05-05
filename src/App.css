@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.dVNBAC .navbar-brand {
+    font-size: 1.4em;
+    color: #FFFFFF !important;
+}
+
+.dVNBAC a, .dVNBAC .navbar-nav, .dVNBAC .navbar-light .nav-link {
+    color: #FFFFFF !important;
+}
